@@ -44,6 +44,7 @@ h3{
 .links{
     border: solid red 1px;
     background-color: yellowgreen;
+    display: flex;
 } 
 
 .smedia p{
